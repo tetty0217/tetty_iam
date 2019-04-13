@@ -1,3 +1,4 @@
+
 # てってぃについて
 私の紹介コーナーです。
 
@@ -105,7 +106,7 @@
 | Nuxt.js | [LADDER](https://prtimes.jp/main/html/rd/p/000000001.000037754.html)開発で初めて使用。 | 
 | React.js（React Native） | SPAJAM等アプリコンテストの開発物や個人事業主としてのWeb開発で使用。 状態管理はRedux。|
 | Angular.js | プライベートで環境構築、基本構文HTTP通信などを絡ませた実装をした程度。 |
-| Node.js | Webpack・Gulp・ParcelなどのタスクランナーやExpress、JavaScriptのテストで使用。 |
+| Node.js | Webpack・Gulp・Parcelなどのタスクランナーやテストで使用。 |
 
 #### html, css
 | 名称 | 備考 | 
