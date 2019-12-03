@@ -24,6 +24,8 @@
 * [Twitter](https://twitter.com/tettaro_wb) ![](https://img.icons8.com/color/26/000000/twitter.png)< _most active on DM!_
 * [Wantedly](https://www.wantedly.com/users/18688126)
 * [LinkedIn](www.linkedin.com/in/tetty0217)
+* [てってぃのモノづくり工房](https://tetty.hateblo.jp/)
+* [Qiita](https://qiita.com/tetty0217)
 
 ### てってぃ（Webエンジニア）として好きなこと
 * テクノロジーを用いたモノづくり
